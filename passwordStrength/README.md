@@ -1,5 +1,9 @@
 # React + Vite
 
+---
+
+# Password Strength Checker 
+## the main focus is logic building, not just UI. Here’s a list (from beginner to advanced) where you’ll practice thinking + coding logic:
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
